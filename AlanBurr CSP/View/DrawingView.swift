@@ -60,7 +60,7 @@ public class DrawingView : UIView
         hydra.addLine(to: CGPoint(x:120, y:150))
         hydra.addLine(to: CGPoint(x:40, y:150))
         hydra.close()
-        UIColor(patternImage: UIImage(named: "Destiny Hydra@2x")!).setFill()
+        UIColor(patternImage: UIImage(named: "Destiny Hydra")!).setFill()
         UIColor.black.setStroke()
         hydra.lineWidth = 2.0
         hydra.fill()

@@ -348,7 +348,7 @@
         <!--Programming View Controller-->
         <scene sceneID="758-pc-SJd">
             <objects>
-                <viewController id="X4W-DH-8lt" customClass="ProgrammingViewController" sceneMemberID="viewController">
+                <viewController id="X4W-DH-8lt" customClass="ProgrammingViewController" customModule="AlanBurr_CSP" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="7nR-rU-ude" customClass="SKView">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
