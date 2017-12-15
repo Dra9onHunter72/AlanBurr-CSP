@@ -23,7 +23,7 @@ public class InvaderLaser: Projectile
         self.physicsBody?.collisionBitMask = 0x0
     }
     
-    required public init?(coder aDecoder: NSCoder)
+    required public init?(coder aDecoder: NSCoder)  
     {
         super.init(coder: aDecoder)
     }
